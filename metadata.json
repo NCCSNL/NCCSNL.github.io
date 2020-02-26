@@ -1,14 +1,14 @@
 {
-  "dataset-site-url": "https://nccsnl.github.io/",
+  "dataset-site-url": "https://ncc.leisurecloud.net/OpenActive/",
   "title": "Nottingham City Council Sport + Leisure Bookings",
   "description": "Booking Data from Nottingham City Council Sport and Leisure",
   "publisher-name": "Nottingham City Council",
   "publisher-url": "https://www.activenottingham.com",
   "keyword-1": "Nottingham",
   "keyword-2": "Sport",
-  "data-url": "https://ncc.leisurecloud.net/openactive/api/sessions",
+  "data-url": "https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-session-series",
   "created": "2018-08-09",
-  "documentation-url": "https://github.com/NCCSNL/opendata",
+  "documentation-url": "https://github.com/gladstonemrm/NottinghamCC",
   "rpde-version": "1.0",
   "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
   "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -17,5 +17,6 @@
   "mailchimp": "require([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us19.list-manage.com\",\"uuid\":\"ef0d8c3b00965f528661e8c0d\",\"lid\":\"3f4bcf789a\"}) })",
   "copyright-notice": "",
   "odi-certificate-number": "",
-  "publish": true
+  "publish": true,
+  "redirect": true
 }
